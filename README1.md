@@ -1,6 +1,5 @@
 # Start Web Project
-salam bura 
-
+burada sizin reklaminiz ola bilerdi
 ## Introduction
 
 ## Purpose
