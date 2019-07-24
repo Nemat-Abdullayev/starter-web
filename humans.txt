@@ -5,6 +5,7 @@
 
     Abdull Nemo   nemoabdull@gmail.com
     fix some bugs
+    lest's do it
 # Fix messages
 this issus have been fixed
 # THANKS
