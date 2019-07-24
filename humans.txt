@@ -5,7 +5,8 @@
 
     Abdull Nemo   nemoabdull@gmail.com
     fix some bugs
-
+# Fix messages
+this issus have been fixed
 # THANKS
 
     thanks my teacher!
