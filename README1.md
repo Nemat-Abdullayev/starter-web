@@ -13,4 +13,4 @@ salam
 necesen?
 sagol sen necesen?
 men de yaxsiyam
-men de
+men de yaxsiyam
